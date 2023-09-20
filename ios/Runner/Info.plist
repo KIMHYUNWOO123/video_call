@@ -48,6 +48,6 @@
 	<key>NSMicrophoneUsageDescription</key>
 	<String>마이크 사용을 허가해주세요.</String>
 	<key>NSCameraUsageDescription</key>
-	<String>카메라 사용을 허가해주세요.<String>
+	<String>카메라 사용을 허가해주세요.</String>
 </dict>
 </plist>
